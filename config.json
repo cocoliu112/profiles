@@ -1,23 +1,20 @@
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "cocoliu112",
+  "name": "coco liu",
   "projects": [
     "http://github.com/john91doe/profiles",
-    "http://github.com/john91doe/i-learn-css-flexbox",
-    "http://github.com/john91doe/my-webpage"
   ],
   "background":[
-    "A graduate student from NTUT Interaction Design Dept",
-    "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
+    "A student from NTUT Interaction Design",
+    "Javascript 5months",
+    "HTML 2 years",
+    "CSS 2 years",
+    "Java 2 years"
   ],
   "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
+    "JavaScript (how to build web and mobile apps)",
+    "d3.js"
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "facebook": "https://www.facebook.com/?locale=tw_TW"
+
 }
